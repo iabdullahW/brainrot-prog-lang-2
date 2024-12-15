@@ -33,7 +33,7 @@ This extension adds:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/araujo88/brainrot-vscode-support.git
+   git clone https://github.com/iabdullahW/brainrot-prog-lang-2.git
    cd brainrot-vscode-support
    ```
 
