@@ -34,7 +34,7 @@ This extension adds:
 
    ```bash
    git clone https://github.com/iabdullahW/brainrot-prog-lang-2.git
-   cd brainrot-vscode-support
+   cd brainrot-prog-lang-2
    ```
 
 2. Open the project in VSCode:
